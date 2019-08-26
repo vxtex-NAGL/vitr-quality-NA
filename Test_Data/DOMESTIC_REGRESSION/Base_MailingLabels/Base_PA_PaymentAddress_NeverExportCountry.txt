@@ -1,0 +1,2 @@
+"PaymentName","MailAddrName","Addr1","Addr2","Addr3","City","State","Zip1","Zip2"
+"PENNSYLVANIA STATE","PA Department of Revenue","Bureau of Receipts and Control","Department 280406","","Harrisburg","PA","17128","0406"

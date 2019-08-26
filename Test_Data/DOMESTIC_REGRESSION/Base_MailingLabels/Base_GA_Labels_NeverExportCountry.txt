@@ -1,0 +1,2 @@
+"ReturnName","MailAddrName","Addr1","Addr2","Addr3","City","State","Zip1","Zip2"
+"GA Sales/Use Tax Report ST-3","Georgia Department of Revenue","Sales and Use Tax Return","P.O. Box 105408","","Atlanta","GA","30348","5408"

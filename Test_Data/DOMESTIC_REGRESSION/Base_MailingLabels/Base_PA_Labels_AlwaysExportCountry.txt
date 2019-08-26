@@ -1,0 +1,2 @@
+"ReturnName","MailAddrName","Addr1","Addr2","Addr3","City","State","Zip1","Zip2","Country"
+"PA Sales/Use/Hotel Tax PA-3","PA Department of Revenue","Collections and Payments","Department 280406","Building 11","Harrisburg","PA","17128","0406","US"
